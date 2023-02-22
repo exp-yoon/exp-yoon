@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exp-yoon&show_icons=true&theme=radical)
 
+<img src="https://img.shields.io/badge/Hi-#FF7143?style=for-the-badge&logo=Google Cardboard&logoColor=black">
 <!--
 **exp-yoon/exp-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
